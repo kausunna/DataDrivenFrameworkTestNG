@@ -1,0 +1,26 @@
+22/10/2015 11:41:40 devpinoyLogger ********** Let the testing Begin **********
+22/10/2015 11:41:40 devpinoyLogger Loading Properties files
+22/10/2015 11:41:40 devpinoyLogger Loading Properties files successful
+22/10/2015 11:41:42 devpinoyLogger Xls files loaded successfully
+22/10/2015 11:41:42 devpinoyLogger Checking the RunMode of Suite A
+22/10/2015 11:41:42 devpinoyLogger Checking RunMode of -- TestCase_A1
+22/10/2015 11:41:42 devpinoyLogger Executing Test -- TestCase_A1
+22/10/2015 11:41:42 devpinoyLogger Dummy Data_A1_1 Dummy Data_A1_2 Dummy Data_A1_3 Dummy Data_A1_4
+22/10/2015 11:41:44 devpinoyLogger Executing Test -- TestCase_A1
+22/10/2015 11:41:44 devpinoyLogger Dummy Data_A1_5 Dummy Data_A1_6 Dummy Data_A1_7 Dummy Data_A1_8
+22/10/2015 11:41:44 devpinoyLogger Checking RunMode of -- TestCase_A2
+22/10/2015 11:41:44 devpinoyLogger Skipping Test Case TestCase_A2 as Runmode is set to NO
+22/10/2015 11:41:44 devpinoyLogger Checking the RunMode of Suite B
+22/10/2015 11:41:44 devpinoyLogger Checking RunMode of -- TestCase_B1
+22/10/2015 11:41:44 devpinoyLogger Executing Test -- TestCase_B1
+22/10/2015 11:41:44 devpinoyLogger Dummy Data_B1_1 Dummy Data_B1_2 Dummy Data_B1_3 Dummy Data_B1_4
+22/10/2015 11:41:44 devpinoyLogger Executing Test -- TestCase_B1
+22/10/2015 11:41:44 devpinoyLogger Dummy Data_B1_5 Dummy Data_B1_6 Dummy Data_B1_7 Dummy Data_B1_8
+22/10/2015 11:41:44 devpinoyLogger Executing Test -- TestCase_B1
+22/10/2015 11:41:44 devpinoyLogger Dummy Data_B1_9 Dummy Data_B1_10 Dummy Data_B1_11 Dummy Data_B1_12
+22/10/2015 11:41:44 devpinoyLogger Executing Test -- TestCase_B1
+22/10/2015 11:41:44 devpinoyLogger Dummy Data_B1_13 Dummy Data_B1_14 Dummy Data_B1_15 Dummy Data_B1_16
+22/10/2015 11:41:45 devpinoyLogger Checking RunMode of -- TestCase_B2
+22/10/2015 11:41:45 devpinoyLogger Executing Test -- TestCase_B2
+22/10/2015 11:41:45 devpinoyLogger Checking the RunMode of Suite C
+22/10/2015 11:41:45 devpinoyLogger Skip suite C as Runmode is set to NO
